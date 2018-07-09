@@ -16,7 +16,7 @@
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {
     "browserstack": "1.5.0",
-    "browserstacktunnel-wrapper": "~2.0.1",
+    "browserstacktunnel-wrapper": "https://github.com/Pringels/node-BrowserStackTunnel.git#http-proxy-agent_version_bump",
     "q": "~1.5.0"
   },
   "peerDependencies": {
